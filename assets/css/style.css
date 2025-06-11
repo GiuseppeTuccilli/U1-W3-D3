@@ -1,0 +1,46 @@
+body{
+    background-color: #80808087
+}
+
+header h1{
+text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+form label{
+    font-weight: bold;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.list-component{
+    background-color: white;
+    margin: 0.5em 0;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.canc-button{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    margin: 0.2em;
+}
+
+.saved-text{
+    padding: 0.2em;
+    font-family: arial;
+}
+
+#add-button{
+    margin: 0.5em 0;
+    background-color: #b4d7b4;
+    padding: 0.5em;
+    color: #1414ad;
+}
