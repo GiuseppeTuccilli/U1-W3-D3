@@ -36,6 +36,7 @@ form label{
 .saved-text{
     padding: 0.2em;
     font-family: arial;
+    margin-bottom: 0;
 }
 
 #add-button{
